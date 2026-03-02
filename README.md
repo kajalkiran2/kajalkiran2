@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Kajal Kiran 👋
 
-<!--
-**kajalkiran2/kajalkiran2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+SDET with 10+ years of experience in designing scalable and maintainable automation frameworks.
 
-Here are some ideas to get you started:
+I specialize in:
+- API Test Automation
+- JavaScript-based framework design
+- Playwright (API)
+- Clean architecture & modular structure
+- CI/CD integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+🔹 API Automation Framework  
+A scalable and modular automation framework built using JavaScript and Playwright, designed with maintainability and extensibility in mind.
+
+---
+
+## 🛠 Technical Skills
+- JavaScript
+- Playwright
+- Node.js
+- REST API Testing
+- Git & GitHub
+- CI/CD
+
+---
+
+## 🎯 Current Focus
+Enhancing framework design patterns, improving reusability, and building clean, maintainable test architecture.
+
+📍 Bangalore, India  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kajal-kiran-p-b45033255/)
