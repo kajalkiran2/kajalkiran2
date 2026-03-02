@@ -13,8 +13,15 @@ I specialize in:
 ---
 
 ## 🚀 Featured Project
-🔹 API Automation Framework  
-A scalable and modular automation framework built using JavaScript and Playwright, designed with maintainability and extensibility in mind.
+
+🔹 [Playwright API Automation Framework](https://github.com/kajalkiran2/playwright-api-automation-framework)
+
+Designed with:
+- Modular folder structure
+- Separation of concerns
+- Reusable utilities
+- Config-driven execution
+- Scalable test design
 
 ---
 
